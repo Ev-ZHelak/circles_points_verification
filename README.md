@@ -9,7 +9,7 @@ This program is a simple graphical example demonstrating the visual verification
 3. The program will generate random circles and points and display their graphical representation.
 4. You will see the circle, its center, the test point, and the result of the test in the title.
 
-   Circle formula: `(x−h)^2 + (y−k)^2 = r^2`
+   circle equation: (x-h)^2 + (y-k)^2 = r^2
 
 5. If the point belongs to the circle, the program will pause and wait for you to press Enter.
 
